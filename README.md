@@ -80,6 +80,11 @@ ae03 0000 1800 0000
 2c01 0000 dc02 0000  
 0000 0000 0f00...
 
+## project setup
+source.c    -> implementation  
+source.h    -> interface/functions  
+main.c      -> entry  
+
 
 https://www.ibm.com/docs/en/zos/2.1.0?topic=dlls-building-dll  
 https://en.wikipedia.org/wiki/Dynamic-link_library
