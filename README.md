@@ -81,4 +81,5 @@ ae03 0000 1800 0000
 0000 0000 0f00...
 
 
-https://www.ibm.com/docs/en/zos/2.1.0?topic=dlls-building-dll
+https://www.ibm.com/docs/en/zos/2.1.0?topic=dlls-building-dll  
+https://en.wikipedia.org/wiki/Dynamic-link_library
